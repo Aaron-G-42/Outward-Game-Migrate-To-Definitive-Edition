@@ -1,5 +1,8 @@
 # Outward Game - Migrate To Definitive Edition
 
+Method Is From Here
+https://www.reddit.com/r/outwardgame/comments/rlisdf/save_data_from_outward_regular_edition_to
+
 Note: this migration is not supported by the devs. Danger ahead!
 Make sure you back up your files first.
 
